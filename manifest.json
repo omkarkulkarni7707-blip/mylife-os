@@ -1,0 +1,1 @@
+{"name":"MyLife OS","short_name":"MyLife OS","description":"Private personal life, money and trading dashboard","start_url":"./","display":"standalone","background_color":"#080a0d","theme_color":"#0b0d10","orientation":"portrait","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
