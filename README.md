@@ -16,3 +16,6 @@ Premium personal dashboard for morning ritual, budget, petrol, trading, gratitud
 
 ## Privacy
 This prototype stores data locally in the browser on the device. No cloud database is configured yet.
+
+
+Deployment configured for GitHub Pages.
