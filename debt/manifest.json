@@ -1,0 +1,19 @@
+{
+  "name": "Debt-Free Personal Planner",
+  "short_name": "Debt-Free",
+  "description": "Private debt tracking, payment history and payoff planning",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1512",
+  "theme_color": "#102b23",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
